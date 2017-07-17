@@ -1,0 +1,43 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\mark\Desktop\TeamTreeHouse\How to Make a Video Game\Builds\FrogsandLogs_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.024 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.142892 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.100182 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1110.
+Total: 0.862692 ms (FindLiveObjects: 0.118842 ms CreateObjectMapping: 0.034815 ms MarkObjects: 0.414440 ms  DeleteObjects: 0.292920 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.638187 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1110.
+Total: 0.792726 ms (FindLiveObjects: 0.100764 ms CreateObjectMapping: 0.052893 ms MarkObjects: 0.367238 ms  DeleteObjects: 0.270156 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1388 -> priority: 1 
+  Thread -> id: 10a8 -> priority: 1 
